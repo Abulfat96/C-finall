@@ -1,0 +1,16 @@
+C:\Users\AbulfatNm\Desktop\library\Library\bin\Debug\Library.exe.config
+C:\Users\AbulfatNm\Desktop\library\Library\bin\Debug\Library.exe
+C:\Users\AbulfatNm\Desktop\library\Library\bin\Debug\Library.pdb
+C:\Users\AbulfatNm\Desktop\library\Library\bin\Debug\EntityFramework.dll
+C:\Users\AbulfatNm\Desktop\library\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AbulfatNm\Desktop\library\Library\bin\Debug\EntityFramework.xml
+C:\Users\AbulfatNm\Desktop\library\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.Form1.resources
+C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.exe
+C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.pdb
+C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.Forms.Home.resources
+C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.Forms.Books.resources
+C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
