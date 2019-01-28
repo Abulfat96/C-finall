@@ -14,3 +14,39 @@ C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.pdb
 C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.Forms.Home.resources
 C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.Forms.Books.resources
 C:\Users\AbulfatNm\Desktop\library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\bin\Debug\Library.exe.config
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\bin\Debug\Library.exe
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\bin\Debug\Library.pdb
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\bin\Debug\EntityFramework.dll
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\bin\Debug\EntityFramework.xml
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\obj\Debug\Library.Forms.Books.resources
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\obj\Debug\Library.Forms.Home.resources
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\obj\Debug\Library.Form1.resources
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\obj\Debug\Library.exe
+C:\Users\ebis9\Desktop\C#\C-finall-master\C-finall-master\Library\obj\Debug\Library.pdb
+C:\Users\ebis9\Desktop\C#\C# finally\Library\bin\Debug\Library.exe.config
+C:\Users\ebis9\Desktop\C#\C# finally\Library\bin\Debug\Library.exe
+C:\Users\ebis9\Desktop\C#\C# finally\Library\bin\Debug\Library.pdb
+C:\Users\ebis9\Desktop\C#\C# finally\Library\bin\Debug\EntityFramework.dll
+C:\Users\ebis9\Desktop\C#\C# finally\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ebis9\Desktop\C#\C# finally\Library\bin\Debug\EntityFramework.xml
+C:\Users\ebis9\Desktop\C#\C# finally\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.Forms.Books.resources
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.Forms.Home.resources
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.exe
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.pdb
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.Forms.Useres.resources
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.Forms.Logins.resources
+C:\Users\ebis9\Desktop\C#\C# finally\Library\obj\Debug\Library.Forms.Orders_Form.resources
